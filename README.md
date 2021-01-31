@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on distributed Systems. Check out [distributed-systems] repository for my projects and more info
+- 🔭 I’m currently working on distributed Systems. Check out [distributed-systems]https://github.com/Roopana/Distributed-Systems.git repository for my projects and more info
 - 🌱 I’m currently learning content analysis of tweets using Natural Language Processing (NLP) 
 - 😄 Pronouns: She/Her/They
 - ⚡ Fun fact: I like winters! A trait picked up from Minnesotans
